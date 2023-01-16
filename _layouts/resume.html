@@ -158,7 +158,7 @@
 
 
       {% if site.resume_section_academicInterest %}
-      <!-- begin academic Interests -->
+      <!-- begin academicInterest -->
       <section class="content-section">
 
         <header class="section-header">
@@ -167,16 +167,16 @@
 
         <div class="resume-item">
           <ul class="resume-item-list">
-            {% for interest in site.data.interests %}
+            {% for interest in site.data.academicInterest %}
             <li>{{ interest.description }}</li>
             {% endfor %}
           </ul>
         </div>
-        {% endfor %}
 
       </section>
-      <!-- end academic Interests  -->
+      <!-- end academic Interests -->
       {% endif %}
+
 
 
       {% if site.resume_section_associations %}
