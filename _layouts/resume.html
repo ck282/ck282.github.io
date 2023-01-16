@@ -155,6 +155,34 @@
       <!-- end Recognition -->
       {% endif %}
 
+
+
+      {% if site.resume_section_academicInterest %}
+      <!-- begin academic Interests -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Academic Interests</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for interest in site.data.interests %}
+            <li>{{ interest.description }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Recognition -->
+      {% endif %}
+
+
+      </section>
+      <!-- end Interests -->
+      {% endif %}
+
       {% if site.resume_section_associations %}
       <!-- begin Associations -->
       <section class="content-section">
