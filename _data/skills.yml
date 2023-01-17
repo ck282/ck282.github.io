@@ -1,12 +1,18 @@
 # Skills
 # Language
 - skill: Language Skills
-  description: asdfasd
+  description: <ul class="resume-item-list"><li>German &colon;
+    native</li><li>English &colon; fluent</li><li>Swedish &colon;
+    basic</li></ul>
 
 # Programming
 - skill: Programming Skills
-  description: Python
+  description: <ul class="resume-item-list"><li>Advanced knowledge of
+    Python</li><li>Basic knowledge of html</li></ul>
 
 # Others
 - skill: .
   description: .
+---
+
+
