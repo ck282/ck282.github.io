@@ -3,13 +3,13 @@
 - company: University of Würzburg
   position: Research Assistant
   duration: April 2022 - current
-  summary: Working for EncycNet <br/> <ul class="resume-item-list"><li>Identifying term relations and extracting these using Python</li><li>Preparing golddata</li><li>Building an xquery application to allow outside users to search through our research data</li></ul>
+  summary: Working for <a href="https://encycnet.github.io/">EncycNet</a> <br/> <ul class="resume-item-list"><li>Identifying term relations and extracting these using Python</li><li>Preparing golddata</li><li>Building an xquery application to allow outside users to search through our research data</li></ul>
 
 
 - company: University of Würzburg
   position: Student Assistant
   duration: Dec 2019 - March 2022
-  summary: working on EncycNet
+  summary: Working for the EncycNet Project
 
 #Before
 - company: University of Würzburg
