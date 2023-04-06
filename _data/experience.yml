@@ -3,7 +3,7 @@
 - company: University of Würzburg
   position: Research Assistant
   duration: April 2022 - current
-  summary: Working for the <a href="https://encycnet.github.io/">EncycNet</a> Project <br/> <ul class="resume-item-list"><li>Identifying term relations and extracting these using Python</li><li>Preparing golddata</li><li>Building an xquery application to allow outside users to search through our research data</li></ul>
+  summary: Working for the <a href="https://encycnet.github.io/">EncycNet</a> Project <br/> <ul class="resume-item-list"><li>Handling unstructured, naturally occurring big data</li><li>Identifying term relations and extracting these using Python</li><li>Preparing golddata</li><li>Building an XQuery application to allow outside users to search through our research data</li></ul>
 
 
 - company: University of Würzburg
