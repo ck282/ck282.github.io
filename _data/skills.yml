@@ -8,7 +8,9 @@
 # Programming
 - skill: Programming Skills
   description: <ul class="resume-item-list"><li>Advanced knowledge</li>
-    &#8211; Python, especially using pandas, regex and others</li><li>Advanced knowledge of xml, xpath and xquery</li><li>Basic knowledge of xslt</li><li>Basic knowledge of php and sql</li><li>Basic knowledge of html, css and javascript</li></ul>
+    &#8211; Python, especially using pandas and regex <br/>
+    &#8211; xml, xpath and xquery
+    </li><li>Basic knowledge of xslt</li><li>Basic knowledge of php and sql</li><li>Basic knowledge of html, css and javascript</li></ul>
 
 # Others
 #- skill: .
