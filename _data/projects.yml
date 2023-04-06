@@ -16,9 +16,16 @@
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
 
 
-# Springfield Community Outreach Group
-- project: Konfliktsimulation
+# Konfliktsimulation
+- project: Konfliktsimulation - Tool 
   role: Co-Programmer
   duration: 2021
   url: "https://github.com/ck282/Konfliktsimulation_uniwue"
   description: Development of a tool using Python that can be used to operate a match of war gaming. 
+
+# Konfliktsimulation
+- project: EncycNet Application
+  role: Programmer
+  duration: 2023
+  url: "http://encycnet.digital-humanities.de/index.html"
+  description: Development of an application using XQuery to search through XML-Data and display the results to the user. 
