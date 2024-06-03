@@ -1,22 +1,17 @@
 # Jobs
 # current job
-- company: University of Würzburg
-  position: Research Assistant
-  duration: April 2022 - current
-  summary: Working for the <a href="https://encycnet.github.io/">EncycNet</a> Project <br/> <ul class="resume-item-list"><li>Handling unstructured, naturally occurring big data</li><li>Identifying term relations and extracting these using Python</li><li>Preparing golddata</li><li>Building an XQuery application to allow outside users to search through our research data</li></ul>
-
 
 - company: University of Würzburg
   position: Student Assistant
   duration: May 2023 - current
-  summary: Working for <a href="https://www.phil.uni-wuerzburg.de/gls/home/">Geolingual Studies</a> in Würzburg <br/> <ul class="resume-item-list"><li>Analysing Twitter data using Sentiment Analysis</li><li>Preprocessing of research data</li><li>Preparing gold data</li><li>Administration of the webpage of the project using TYPO3</li></ul>
+  summary: Working for <a href="https://www.phil.uni-wuerzburg.de/gls/home/">Geolingual Studies</a> in Würzburg <br/> <ul class="resume-item-list"><li>Data acquisition and processing, focused on social media data</li><li>Remote sensing analysis</li><li>NLP analyses (language identification, topic modeling, sentiment analysis, etc.)</li><li>Preparing gold data</li><li>Administration of the webpage of the project using TYPO3</li></ul>
 
 
 
 - company: University of Würzburg
   position: Student Assistant
-  duration: Dec 2019 - March 2022
-  summary: Working for the EncycNet Project
+  duration: Dec 2019 - Mai 2024
+  summary: Working for the <a href="https://encycnet.github.io/">EncycNet</a> Project <br/> <ul class="resume-item-list"><li>Handling unstructured, naturally occurring big data</li><li>Identifying term relations and extracting these using Python</li><li>Preparing golddata</li><li>Building an XQuery application to allow outside users to search through our research data</li></ul>
 
 #Before
 - company: University of Würzburg
