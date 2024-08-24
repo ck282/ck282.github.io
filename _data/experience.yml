@@ -3,6 +3,11 @@
 
 - company: University of Würzburg
   position: Student Assistant
+  duration: Sept 2024 - current
+  summary: Working for the<a href="https://www.uni-wuerzburg.de/zpd/">Zentrum für Philologie und Digitalität</a> in Würzburg <br/> <ul class="resume-item-list"><li>Automatic Transformation of XML files</li></ul>
+
+- company: University of Würzburg
+  position: Student Assistant
   duration: May 2023 - current
   summary: Working for <a href="https://www.phil.uni-wuerzburg.de/gls/home/">Geolingual Studies</a> in Würzburg <br/> <ul class="resume-item-list"><li>Data acquisition and processing, focused on social media data</li><li>Remote sensing analysis</li><li>NLP analyses (language identification, topic modeling, sentiment analysis, etc.)</li><li>Preparing gold data</li><li>Administration of the webpage of the project using TYPO3</li><li>Administration and editing of the newsletter using GNU Mailman</li><li>Literature review for projects</li></ul>
 
