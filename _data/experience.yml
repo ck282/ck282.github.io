@@ -5,7 +5,7 @@
 - company: University of Würzburg
   position: Research Associate
   duration: March 2025 - current
-  summary: Working for the <a href="https://www.uni-wuerzburg.de/zpd/">Zentrum für Philologie und Digitalität</a> in Würzburg <br/> <ul class="resume-item-list"><li>Automatic Transformation of XML files into various formats such as ALTO or ICE</li><li>Automatic Named Entity recognition and linking</li><li>Building a web page displaying TEI and MEI documents</li></ul>
+  summary: Working for the <a href="https://www.uni-wuerzburg.de/zpd/">Zentrum für Philologie und Digitalität</a> in Würzburg <br/> <ul class="resume-item-list"><li>Automatic Transformation of XML files into various formats such as ALTO or ICE</li><li>Automatic Named Entity recognition and linking</li><li>Building a web page displaying TEI and MEI documents</li><li>Automatic extraction and processing of structured data from unstructured historical data using machine learning models</li><li>Project organisation and management</li></ul>
 
 - company: University of Würzburg
   position: Student Assistant

@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Corinna Keupp"
-resume_title:                   "M.A."
+resume_title:                   "M. A."
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "corinna.keupp@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     "corinna.keupp@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hello there. My name is Corinna Keupp, currently I am working at the Centre for Philology and Digitality at the University of Würzburg. My current work focuses on applying NLP methods on text of various genre and various languages. I have an interest in language and media. Below you can find more information about my skills and experiences. If you have any questions, please do not hesitate to contact me. <i>This is a work in progess - last update 19.04.2025</i></p>"
+resume_header_intro: "<p>Hello there. My name is Corinna Keupp, currently I am working at the Centre for Philology and Digitality at the University of Würzburg as a research associate. My current work focuses on applying NLP methods on text of various genres and different languages. Further I have an interest in language and media. Below you can find more information about my skills and experiences. If you have any questions, please do not hesitate to contact me. <i>This is a work in progess - last update 02.01.2026</i></p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -36,6 +36,7 @@ resume_looking_for_work:        "yes"
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
+resume_section_publications:        true
 resume_section_skills:          true
 #resume_section_recognition:     true
 #resume_section_links:           true
@@ -47,7 +48,7 @@ resume_section_interests:       true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/ck282"
-  resume_twitter_url:           "https://twitter.com/CTKeupp"
+  #resume_twitter_url:           "https://twitter.com/CTKeupp"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   #resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/corinna-keupp-b9b75b2b4/"

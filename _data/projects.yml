@@ -8,18 +8,24 @@
 #  # url: "#"
 #  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
-
-
-# Konfliktsimulation
-- project: Konfliktsimulation - Tool 
-  role: Co-Programmer
-  duration: 2021
-  url: "https://github.com/ck282/Konfliktsimulation_uniwue"
-  description: Development of a tool using Python that can be used to operate a match of war gaming. 
-
-# Konfliktsimulation
-- project: EncycNet Application
+# DigiMusTh
+- project: DigiMusTh
   role: Programmer
+  duration: 2025
+  url: "https://fabianmoss.github.io/digimusth/"
+  description: Development of a platform for minimal publishing of textual (TEI), musical (MEI), and image data.
+
+
+# EncycNet
+- project: EncycNet Application
+  role: Student Project | Programmer
   duration: 2023
   url: "http://encycnet.digital-humanities.de/index.html"
   description: Development of an application using XQuery to search through XML-Data and display the results to the user. 
+
+# Konfliktsimulation
+- project: Konfliktsimulation - Tool 
+  role: Student Project | Co-Programmer
+  duration: 2021
+  url: "https://github.com/ck282/Konfliktsimulation_uniwue"
+  description: Development of a tool using Python that can be used to operate a match of war gaming. 
